@@ -1,0 +1,12 @@
+# print(12 / 3)
+# print(12 % 3)
+# print(12 // 3)
+# print(1 / 3)
+# print(1 // 3)
+# print(1 % 3)
+# print(4 // 3)
+# print(4 % 3)
+arr = ["0", "1", "1"]
+arr.reverse()
+s = "".join(arr)
+print(s)
